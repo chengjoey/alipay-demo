@@ -6,6 +6,11 @@
 ```bash
 go get github.com/chengjoey/alipay-demo
 ```
+或
+```bash
+git clone https://github.com/chengjoey/alipay-demo.git
+```
+
 修改server.go文件里的支付宝参数
 
 >1. **host** 服务地址域名或ip地址
