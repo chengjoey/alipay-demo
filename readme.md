@@ -26,7 +26,7 @@ go run server.go
 ```
 或
 ```bash
-go build
+go build -mod=vendor
 ./apipay-demo
 ```
 ![支付页面演示图](支付页面.jpg)
